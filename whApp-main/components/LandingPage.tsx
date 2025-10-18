@@ -22,7 +22,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
             </button>
         </header>
 
-        <main className="py-24 sm:py-32">
+        <main className="pt-16 sm:pt-20 pb-24 sm:pb-32">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-text-heading tracking-tighter">
               Простой и мощный<br /> учет рабочего времени
