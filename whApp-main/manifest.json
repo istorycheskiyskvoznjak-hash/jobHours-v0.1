@@ -1,0 +1,23 @@
+{
+  "name": "Work Hours Tracker",
+  "short_name": "jobHours",
+  "description": "An elegant application for individuals and teams to log work hours, track productivity, and calculate earnings. Features user accounts, data visualization, and financial summaries.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#11110f",
+  "theme_color": "#11110f",
+  "icons": [
+    {
+      "src": "https://iili.io/KWZ2RyJ.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://iili.io/KWZ2RyJ.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
